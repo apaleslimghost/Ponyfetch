@@ -1,6 +1,6 @@
 {
   "name": "ponyfetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "whatwg fetch ponyfill with like actual commonjs",
   "main": "index.js",
   "scripts": {
