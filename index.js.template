@@ -1,0 +1,6 @@
+var Promise = require('es6-promise');
+var self = {};
+
+{{{ body }}}
+
+module.exports = self.fetch;

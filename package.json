@@ -26,5 +26,8 @@
   "homepage": "https://github.com/quarterto/Ponyfetch",
   "dependencies": {
     "es6-promise": "^2.0.1"
+  },
+  "devDependencies": {
+    "handlebars": "^3.0.0"
   }
 }
