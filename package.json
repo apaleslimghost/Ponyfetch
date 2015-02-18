@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/quarterto/Ponyfetch/issues"
   },
-  "homepage": "https://github.com/quarterto/Ponyfetch"
+  "homepage": "https://github.com/quarterto/Ponyfetch",
+  "dependencies": {
+    "es6-promise": "^2.0.1"
+  }
 }
