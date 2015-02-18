@@ -1,0 +1,3 @@
+[submodule "fetch"]
+	path = fetch
+	url = git://github.com/github/fetch.git
